@@ -7,6 +7,8 @@ import org.testng.annotations.Test;
 import static org.testng.Assert.assertTrue;
 public class main
 {
+
+
     private static WebDriver driver;
     @BeforeTest
     public void openBrowser() throws InterruptedException
